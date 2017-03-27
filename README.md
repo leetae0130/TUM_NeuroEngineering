@@ -2,8 +2,6 @@
 
 Codes related to projects and courses in TUM.
 
-
-
 2016/17 WS Courses:
   * Computational Neuroscience
   * Information Theory
